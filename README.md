@@ -9,13 +9,6 @@ This project analyzes sales data for a clothing retailer (Zara) to uncover insig
 - 💻 Google Colab for data cleaning and EDA
 - 📊 Power BI for advanced visualization and storytelling
 
-## 📁 Files Included
-
-- `retail_analysis.ipynb` – Python notebook with data analysis & visual exploration  
-- `Retail_Report.pbix` – Power BI report with 3 themed pages  
-- `/images/` – Screenshots of the report and visuals  
-- `README.md` – Project summary and insights  
-
 ## 📊 Power BI Report Structure
 
 **1. Executive Summary**
